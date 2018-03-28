@@ -1,3 +1,4 @@
-[submodule "woocommerce-begateway/begateway-api-php"]
-	path = woocommerce-begateway/begateway-api-php
-	url = https://github.com/beGateway/begateway-api-php.git
+[submodule "woocommerce-aldrapay/aldrapay-api-php"]
+	path = woocommerce-aldrapay/aldrapay-api-php
+	url = https://github.com/bobesku/aldrapay-api-php.git
+	
