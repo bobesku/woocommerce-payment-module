@@ -16,6 +16,10 @@
   * Upload the payment module archive via **Upload Plugin**.
   * Choose _Plugins -> Installed Plugins_ and find the _WooCommerce Aldrapay Payment Gateway_ plugin and activate it.
 
+![Activate](https://github.com/bobesku/woocommerce-payment-module/raw/master/doc/activate-plugin-uploaded-en.png)
+
+  * Or for later activation, go to above _Plugins -> Installed Plugins_ and find the _WooCommerce Aldrapay Payment Gateway_ plugin and activate it.
+
 ![Activate](https://github.com/bobesku/woocommerce-payment-module/raw/master/doc/activate-plugin-en.png)
 
 ### Setup
@@ -62,7 +66,6 @@ PHP 5.3+ is required.
 
 ### Demo credentials
 
-You are free to use the settings to configure the module to process payments with a demo gateway. 
-Please register a Test Account at https://secure.aldrapay.com/backoffice/register.html 
+In order to perform tests using a demo gateway account, please use your provided credentials or register a Test Account at https://secure.aldrapay.com/backoffice/register.html 
 
 In order to use test data to make a test payment please check this link: https://secure.aldrapay.com/backoffice/docs/api/testing.html#test-cards 
