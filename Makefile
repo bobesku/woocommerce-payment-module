@@ -1,3 +1,4 @@
+SHELL=/bin/bash
 all:
-	if [[ -e woocommerce-begateway.zip ]]; then rm woocommerce-begateway.zip; fi
-	zip -r woocommerce-begateway.zip woocommerce-begateway -x "*/test/*" -x "*/.git/*" -x "*/examples/*"
+	if [[ -e woocommerce-aldrapay.zip ]]; then rm woocommerce-aldrapay.zip; fi
+	zip -r woocommerce-aldrapay.zip woocommerce-aldrapay -x "*/test/*" -x "*/.git/*" -x "*/examples/*" -x "*.git*" -x "*.project*" -x "*.travis*" -x "*.build*" 
