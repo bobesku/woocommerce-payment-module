@@ -183,15 +183,15 @@ function bt_aldrapay_go()
           'default' => __("VISA, Mastercard", 'woocommerce-aldrapay')
         ),
         'shop-id' => array(
-          'title' => __( 'Shop ID', 'woocommerce-aldrapay' ),
+          'title' => __( 'Merchant ID', 'woocommerce-aldrapay' ),
           'type' => 'text',
-          'description' => __( 'Please enter your Shop Id.', 'woocommerce-aldrapay' ),
+          'description' => __( 'Please enter your Merchant Id.', 'woocommerce-aldrapay' ),
           'default' => ''
         ),
         'secret-key' => array(
-          'title' => __( 'Secret Key', 'woocommerce-aldrapay' ),
+          'title' => __( 'Pass Code (secret key)', 'woocommerce-aldrapay' ),
           'type' => 'text',
-          'description' => __( 'Please enter your Shop secret key.', 'woocommerce-aldrapay' ),
+          'description' => __( 'Please enter your Pass Code (secret key).', 'woocommerce-aldrapay' ),
           'default' => ''
         ),
         'psign-algorithm' => array(
@@ -204,13 +204,13 @@ function bt_aldrapay_go()
           'title' => __( 'Payment gateway domain', 'woocommerce-aldrapay' ),
           'type' => 'text',
           'description' => __( 'Please enter payment gateway domain of your payment processor.', 'woocommerce-aldrapay' ),
-          'default' => ''
+          'default' => 'secure.aldrapay.com'
         ),
         'domain-checkout' => array(
           'title' => __( 'Payment page domain', 'woocommerce-aldrapay' ),
           'type' => 'text',
           'description' => __( 'Please enter payment page domain of your payment processor.', 'woocommerce-aldrapay' ),
-          'default' => ''
+          'default' => 'secure.aldrapay.com'
         ),
         'tx-type'      => array(
           'title' => __('Transaction Type', 'woocommerce-aldrapay'),

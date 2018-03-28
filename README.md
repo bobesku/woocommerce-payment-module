@@ -14,11 +14,11 @@
   * Start up the administrative panel for Wordpress (www.yourshop.com/wp-admin/)
   * Choose _Plugins -> Add New_
   * Upload the payment module archive via **Upload Plugin**.
-  * Choose _Plugins -> Installed Plugins_ and find the _WooCommerce Aldrapay Payment Gateway_ plugin and activate it.
+  * Click on the _Activate Plugin_ button in order to enable it in the system.
 
 ![Activate](https://github.com/bobesku/woocommerce-payment-module/raw/master/doc/activate-plugin-uploaded-en.png)
 
-  * Or for later activation, go to above _Plugins -> Installed Plugins_ and find the _WooCommerce Aldrapay Payment Gateway_ plugin and activate it.
+  * Or for later activation, choose _Plugins -> Installed Plugins_ and find the _WooCommerce Aldrapay Payment Gateway_ plugin and activate it.
 
 ![Activate](https://github.com/bobesku/woocommerce-payment-module/raw/master/doc/activate-plugin-en.png)
 
