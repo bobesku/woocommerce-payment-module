@@ -1,12 +1,5 @@
 ## WooCommerce payment module
 
-[Module for WooCommerce 2.x](https://github.com/bobesku/woocommerce-payment-module/tree/woocommerce-2.4)
-
-[Module for WooCommerce 3.0](https://github.com/bobesku/woocommerce-payment-module/tree/woocommerce-3.0)
-
-[Module for WooCommerce 3.1](https://github.com/bobesku/woocommerce-payment-module/tree/woocommerce-3.1)
-
-
 ### Installation
 
   * Backup your webstore and database
@@ -59,13 +52,13 @@ Now the module is configured.
 
 Tested and developed with:
 
-  * Wordress 4.8.x
-  * WooCommerce 3.2.x
+  * Wordress 4.8.x, 4.9.x
+  * WooCommerce 3.2.x, 3.3.x
 
-PHP 5.3+ is required.
+PHP 5.5+ is required.
 
 ### Demo credentials
 
-In order to perform tests using a demo gateway account, please use your provided credentials or register a Test Account at https://secure.aldrapay.com/backoffice/register.html 
+For testing with a demo account, please use the provided credentials or register for free a Test Account at https://secure.aldrapay.com/backoffice/register.html 
 
-In order to use test data to make a test payment please check this link: https://secure.aldrapay.com/backoffice/docs/api/testing.html#test-cards 
+In order to use data for making a test payment, please check this link: https://secure.aldrapay.com/backoffice/docs/api/testing.html#test-cards 
