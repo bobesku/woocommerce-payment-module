@@ -32,8 +32,7 @@ This will bring up a page displaying all the options that you can select to admi
   * Transaction type: _Authorization_ or _Payment_
   * Check _Enable admin capture etc_ if you want to allow administrators
     to issue refunds or captures from WooCommerce backend
-  * Check _Debug Log_ if you want to log messages between _beGateway_
-    and WooCommerce
+  * Check _Debug Log_ if you want to log messages between _Aldrapay_ and WooCommerce
 
 Enter in fields as follows:
 
